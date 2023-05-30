@@ -1,14 +1,14 @@
 # project files
 cardhub/
 cardhub_uploads/*
+cardhub_uploads/cards/
 client/
 exchangeratesapp/
-node_modules/
 public/
 radiorpi/
 themodern/
+.idea/
 *.png
-/.idea/
 
 # Logs
 logs

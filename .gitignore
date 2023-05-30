@@ -1,12 +1,14 @@
-/cardhub
-/cardhub_uploads
-/client
-/exchangeratesapp
-/node_modules
-/public
-/radiorpi
-/themodern
+# project files
+cardhub/
+cardhub_uploads/*
+client/
+exchangeratesapp/
+node_modules/
+public/
+radiorpi/
+themodern/
 *.png
+/.idea/
 
 # Logs
 logs

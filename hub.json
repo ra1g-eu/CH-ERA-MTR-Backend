@@ -1,0 +1,74 @@
+[
+  {
+    "card_uuid": "f1fabbf0-0a86-11ed-b167-c177a2a9e7dc",
+    "card_name": "Kaufland",
+    "card_image": "http://localhost:3000/cardhub/cards/1658581021995_ayayaA6DA_kaufland_slovensko_lid423l.jpg",
+    "cardNotes": "moje poznamky",
+    "manualCode": "--",
+    "shopLogo": "https://ra1g.eu/ch-logos/kauflandlogo.png",
+    "shop_name": "Kaufland",
+    "shopUrlSK": "no_url",
+    "shopUrlCZ": "no_url",
+    "country_name": "Slovensko"
+  },
+  {
+    "card_uuid": "88b65c20-0c21-11ed-ae34-fdcd2ed53f74",
+    "card_name": "Billa karta",
+    "card_image": "--",
+    "cardNotes": "",
+    "manualCode": "9940051592073",
+    "shopLogo": "https://ra1g.eu/ch-logos/billalogo.png",
+    "shop_name": "Billa",
+    "shopUrlSK": "https://zlavy.sme.sk/letaky/billa",
+    "shopUrlCZ": "https://www.akcniceny.cz/letaky/billa/",
+    "country_name": "Slovensko"
+  },
+  {
+    "card_uuid": "7bb3dd30-14d8-11ed-ad25-3bb82601987a",
+    "card_name": "NAY.sk karta",
+    "card_image": "https://localhost/cardhub/cards/1659715553915_ayayaA6DA_nay.sk_slovensko_lid423l.jpg",
+    "cardNotes": "ayayaya",
+    "manualCode": "--",
+    "shopLogo": "https://ra1g.eu/ch-logos/naylogo.png",
+    "shop_name": "NAY.sk",
+    "shopUrlSK": "no_url",
+    "shopUrlCZ": "no_url",
+    "country_name": "Slovensko"
+  },
+  {
+    "card_uuid": "f6a78aa0-14d8-11ed-ad25-3bb82601987a",
+    "card_name": "OBI karta",
+    "card_image": "https://localhost/cardhub/cards/1659715760198_ayayaA6DA_obi_slovensko_lid423l.jpg",
+    "cardNotes": "obikarta coze",
+    "manualCode": "--",
+    "shopLogo": "https://ra1g.eu/ch-logos/obilogo.png",
+    "shop_name": "OBI",
+    "shopUrlSK": "no_url",
+    "shopUrlCZ": "no_url",
+    "country_name": "Slovensko"
+  },
+  {
+    "card_uuid": "03e4b7d0-1e19-11ed-b82b-2b0c6de3fdd8",
+    "card_name": "Lidl karta",
+    "card_image": "--",
+    "cardNotes": "test",
+    "manualCode": "77200003126792109",
+    "shopLogo": "https://ra1g.eu/ch-logos/lidllogo.png",
+    "shop_name": "Lidl",
+    "shopUrlSK": "https://zlavy.sme.sk/letaky/lidl",
+    "shopUrlCZ": "https://www.akcniceny.cz/letaky/lidl/",
+    "country_name": "Slovensko"
+  },
+  {
+    "card_uuid": "609a3380-0a85-11ed-b167-c177a2a9e7dc",
+    "card_name": "Lidl karta",
+    "card_image": "http://localhost/cardhub/cards/1658580348593_ayayaA6DA_lidlkarta_Äesko_lid423l.jpg",
+    "cardNotes": "nezabudnut vyklikat kupony",
+    "manualCode": "--",
+    "shopLogo": "https://ra1g.eu/ch-logos/lidllogo.png",
+    "shop_name": "Lidl",
+    "shopUrlSK": "https://zlavy.sme.sk/letaky/lidl",
+    "shopUrlCZ": "https://www.akcniceny.cz/letaky/lidl/",
+    "country_name": "Česko"
+  }
+]

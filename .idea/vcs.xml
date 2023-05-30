@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/cardhub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exchangeratesapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exchangeratesapp/exchangeratesapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/radiorpi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/radiorpi/radiorpi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themodern/tm" vcs="Git" />
+  </component>
+</project>
